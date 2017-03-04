@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [X] Table rows for search results should be dynamic height according to the content height.
 - [X] Custom cells should have the proper Auto Layout constraints.
-
+- [X] User can filter their search by minimum number of stars
 
 ## Video Walkthrough
 
